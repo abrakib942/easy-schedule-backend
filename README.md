@@ -4,14 +4,14 @@
 Admin Emial: "admin@easyschedule.com"
 Admin Password: "EasyScheduleAdmin123"
 
-## [Live site link](https://easy-schedule-77cce.web.app/)
-Click here: https://easy-schedule-77cce.web.app/
+## [Live site link](https://easy-schedule.netlify.app/)
+Click here: https://easy-schedule.netlify.app/
 
-## [Repo link client-side](https://github.com/shahriarkasem/easy-schedule-client-side)
-Click here: https://github.com/shahriarkasem/easy-schedule-client-side
+## [Repo link client-side](https://github.com/abrakib942/easy-schedule-client)
+Click here: https://github.com/abrakib942/easy-schedule-client
 
-## [Repo link server-side](https://github.com/shahriarkasem/easy-schedule-server-side)
-Click here: https://github.com/shahriarkasem/easy-schedule-server-side
+## [Repo link server-side](https://github.com/abrakib942/easy-schedule-backend)
+Click here: https://github.com/abrakib942/easy-schedule-backend
 
 ### Website overview:
 * On the Home page, users can view and select the options of Business, Education, and Medical Scheduling. 
